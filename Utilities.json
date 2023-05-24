@@ -3,7 +3,7 @@
     {
       "AppName": "Crash Bypass Vought (GFN)",
       "AppImage": "https://cdn.discordapp.com/attachments/1078666423703965826/1088125248710393886/unnamed.jpg",
-      "AppDownloadUrl": "https://github.com/blackinone1337/GeforceNOW-Uadml-Bypass/releases/download/v0.1-alpha/VoughtUadml.exe",
+      "AppDownloadUrl": "https://cdn.discordapp.com/attachments/873261878904782941/1102389310487023727/VoughtUadml.exe",
       "AppExe": "VoughtUadml.exe",
       "AppArguments": ""
     },
@@ -12,6 +12,13 @@
       "AppImage": "https://dashboard.snapcraft.io/site_media/appmedia/2020/10/gfn512.png",
       "AppDownloadUrl": "https://files.zortos.me/Files/Expirimental/UadSol.exe",
       "AppExe": "UadSol.exe",
+      "AppArguments": ""
+    },
+    {
+      "AppName": "UWUTools",
+      "AppImage": "https://dashboard.snapcraft.io/site_media/appmedia/2020/10/gfn512.png",
+      "AppDownloadUrl": "https://picteon.dev/files/UwUTools.exe",
+      "AppExe": "UwUTools.exe",
       "AppArguments": ""
     }
   ]
